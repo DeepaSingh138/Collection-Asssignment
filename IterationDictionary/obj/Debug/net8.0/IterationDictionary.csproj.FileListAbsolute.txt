@@ -1,0 +1,14 @@
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\bin\Debug\net8.0\IterationDictionary.exe
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\bin\Debug\net8.0\IterationDictionary.deps.json
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\bin\Debug\net8.0\IterationDictionary.runtimeconfig.json
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\bin\Debug\net8.0\IterationDictionary.dll
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\bin\Debug\net8.0\IterationDictionary.pdb
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.AssemblyInfoInputs.cache
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.AssemblyInfo.cs
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.csproj.CoreCompileInputs.cache
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.dll
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\refint\IterationDictionary.dll
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.pdb
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\IterationDictionary.genruntimeconfig.cache
+C:\Users\digen\source\repos\IterationDictionary\IterationDictionary\obj\Debug\net8.0\ref\IterationDictionary.dll

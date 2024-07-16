@@ -1,0 +1,14 @@
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.AssemblyInfoInputs.cache
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.AssemblyInfo.cs
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.csproj.CoreCompileInputs.cache
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\bin\Debug\net8.0\DictionaryOpertaions.exe
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\bin\Debug\net8.0\DictionaryOpertaions.deps.json
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\bin\Debug\net8.0\DictionaryOpertaions.runtimeconfig.json
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\bin\Debug\net8.0\DictionaryOpertaions.dll
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\bin\Debug\net8.0\DictionaryOpertaions.pdb
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.dll
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\refint\DictionaryOpertaions.dll
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.pdb
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\DictionaryOpertaions.genruntimeconfig.cache
+C:\Users\digen\source\repos\DictionaryOpertaions\DictionaryOpertaions\obj\Debug\net8.0\ref\DictionaryOpertaions.dll

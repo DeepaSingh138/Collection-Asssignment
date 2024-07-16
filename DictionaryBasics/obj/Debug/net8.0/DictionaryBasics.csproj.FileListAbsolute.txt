@@ -1,0 +1,14 @@
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.exe
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.deps.json
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.runtimeconfig.json
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.dll
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.pdb
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.AssemblyInfoInputs.cache
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.AssemblyInfo.cs
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.csproj.CoreCompileInputs.cache
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.dll
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\refint\DictionaryBasics.dll
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.pdb
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.genruntimeconfig.cache
+C:\Users\digen\source\repos\DictionaryBasics\DictionaryBasics\obj\Debug\net8.0\ref\DictionaryBasics.dll

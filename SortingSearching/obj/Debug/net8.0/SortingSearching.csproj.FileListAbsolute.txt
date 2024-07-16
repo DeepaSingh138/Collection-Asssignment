@@ -1,0 +1,14 @@
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\bin\Debug\net8.0\SortingSearching.exe
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\bin\Debug\net8.0\SortingSearching.deps.json
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\bin\Debug\net8.0\SortingSearching.runtimeconfig.json
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\bin\Debug\net8.0\SortingSearching.dll
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\bin\Debug\net8.0\SortingSearching.pdb
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.AssemblyInfoInputs.cache
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.AssemblyInfo.cs
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.csproj.CoreCompileInputs.cache
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.dll
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\refint\SortingSearching.dll
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.pdb
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\SortingSearching.genruntimeconfig.cache
+C:\Users\digen\source\repos\SortingSearching\SortingSearching\obj\Debug\net8.0\ref\SortingSearching.dll

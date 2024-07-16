@@ -1,0 +1,14 @@
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\bin\Debug\net8.0\CombinedLD.exe
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\bin\Debug\net8.0\CombinedLD.deps.json
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\bin\Debug\net8.0\CombinedLD.runtimeconfig.json
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\bin\Debug\net8.0\CombinedLD.dll
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\bin\Debug\net8.0\CombinedLD.pdb
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.AssemblyInfoInputs.cache
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.AssemblyInfo.cs
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.csproj.CoreCompileInputs.cache
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.dll
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\refint\CombinedLD.dll
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.pdb
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\CombinedLD.genruntimeconfig.cache
+C:\Users\digen\source\repos\CombinedLD\CombinedLD\obj\Debug\net8.0\ref\CombinedLD.dll
